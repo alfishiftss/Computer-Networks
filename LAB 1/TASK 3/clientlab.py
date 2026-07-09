@@ -27,4 +27,4 @@ while True:
     send_message(message)
     if message == "end":
         break
-    
+    #here i have made a changhe to the code to make it more user friendly and added a new feature to the code
